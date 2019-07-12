@@ -1,0 +1,16 @@
+body { padding-bottom: 60px; padding-top: 0px; background-color: #E0E0E0}
+
+.page-header
+{
+	margin-top: 0;
+}
+
+.panel-body
+{
+	padding-top: 0;
+}
+
+.rows
+{
+	padding-top: 20;
+}
